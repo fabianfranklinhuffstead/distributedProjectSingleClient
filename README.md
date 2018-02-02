@@ -8,3 +8,4 @@
   <li>End game</li>
 </ul>
 
+<p>Please contact for fixes, changes further instructions</p>
