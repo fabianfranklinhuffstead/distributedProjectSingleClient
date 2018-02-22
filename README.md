@@ -5,6 +5,7 @@
 <ul>
   <li>Start Game</li>
   <li>Allow user to race two Boats on the same client</li>
+  <li>Selection of keys and other settings included</li>
   <li>End game</li>
 </ul>
 
