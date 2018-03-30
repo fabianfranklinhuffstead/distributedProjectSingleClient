@@ -1,5 +1,5 @@
 # distributedProjectSingleClient
-<p>A solution for creating Single client application</p>
+<p>A Java solution for creating Single client application</p>
 
 <h2>The task: </h2>
 <ul>
