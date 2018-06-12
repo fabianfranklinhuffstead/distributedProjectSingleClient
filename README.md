@@ -9,7 +9,7 @@
   <li>End game</li>
 </ul>
 
-<img src="">
+<img src="/src/mainImages/screenshots/main-menu.png">
 
 
 
