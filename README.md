@@ -9,6 +9,8 @@
   <li>End game</li>
 </ul>
 
+
+<h3>Main menu</h3>
 <img src="/src/mainImages/screenshots/main-menu.png">
 
 
