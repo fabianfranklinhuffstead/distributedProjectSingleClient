@@ -8,7 +8,7 @@
   <li>Selection of keys, maps and other settings included i.e. Audio, Graphics</li>
   <li>End game</li>
 </ul>
-
+<p>Make sure to run three instances, one for the server and two for the client</p>
 
 <h3>Main menu</h3>
 <p>Main menu selection screen when application is start</p>
