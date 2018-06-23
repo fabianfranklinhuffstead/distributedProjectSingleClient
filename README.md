@@ -11,7 +11,7 @@
 <p>Make sure to run three instances, one for the server and two for the client</p>
 
 <h3>Main menu</h3>
-<p>Main menu selection screen when application is start. From here you can select one player / two player mode or quit the game./p>
+<p>Main menu selection screen when application is start. From here you can select one player / two player mode or quit the game.</p>
 <img src="/src/mainImages/screenshots/main-menu.png">
 
 <h3>Selection menu</h3>
