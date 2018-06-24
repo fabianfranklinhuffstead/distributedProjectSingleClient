@@ -19,11 +19,11 @@
 <img src="/src/mainImages/screenshots/selection-menu.png">
 
 <h3>Standard map</h3>
-<p>Screen of the standard map.</p>
+<p>Screen of the standard map. Can be chosen from the selection menu.</p>
 <img src="/src/mainImages/screenshots/standard-map.png">
 
 <h3>Alternative map</h3>
-<p>Screen of the alternative map.</p>
+<p>Screen of the alternative map. Can be chosen from the selection menu.</p>
 <img src="/src/mainImages/screenshots/alternative-map.png">
 
 <p>Most instructions are include and is self intuitive contact for further guidance.</p>
