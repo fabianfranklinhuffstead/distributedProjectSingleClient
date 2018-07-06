@@ -15,7 +15,7 @@
 <img src="/src/mainImages/screenshots/main-menu.png">
 
 <h3>Selection menu</h3>
-<p>This is a basic selection menu for in game settings including selection  of the maps and more.</p>
+<p>This is a basic selection menu for in game settings including selection  of the maps and more. Here displays the corresponding keys for each player.</p>
 <img src="/src/mainImages/screenshots/selection-menu.png">
 
 <h3>Standard map</h3>
