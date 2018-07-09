@@ -1,5 +1,5 @@
 # distributedProjectSingleClient
-<p>A JAVA solution for creating Single client application, network version of this application can be found. <a href="https://github.com/fabianfranklinhuffstead/distributedProjectNetwork">here</a>.</p>
+<p>A JAVA 8 solution for creating Single client application, network version of this application can be found. <a href="https://github.com/fabianfranklinhuffstead/distributedProjectNetwork">here</a>.</p>
 
 <h2>The task: </h2>
 <ul>
