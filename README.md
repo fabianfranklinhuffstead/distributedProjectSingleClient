@@ -12,7 +12,7 @@
 <h2>Requirements: </h2>
 <ul>
   <li>Java 8</li>
-  <li>At least one client instances</li>
+  <li>Minimum one client instances</li>
   <li>One server instance</li> 
 </ul>
 
