@@ -8,7 +8,13 @@
   <li>Selection of keys, maps and other settings included i.e. Audio, Graphics</li>
   <li>End game</li>
 </ul>
-<p>Make sure to run three instances, one for the server and two for the client</p>
+
+<h2>Requirements: </h2>
+<ul>
+  <li>Java 8</li>
+  <li>At least one client instances</li>
+  <li>One server instance</li> 
+</ul>
 
 <h3>Main menu</h3>
 <p>Main menu selection screen when application is start. From here you can select one player / two player mode or quit the game.</p>
