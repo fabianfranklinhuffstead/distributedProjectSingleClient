@@ -13,7 +13,6 @@
 <ul>
   <li>Java 8</li>
   <li>Minimum one client instances</li>
-  <li>One server instance</li> 
 </ul>
 
 <h3>Main menu</h3>
